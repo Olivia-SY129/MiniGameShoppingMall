@@ -11,6 +11,7 @@ function displayItems(items) {
     const container = document.getElementsByClassName('items');
     container[0].innerHTML = items.map(item => createHTMLString(item)).join('');
     console.log(container[0]);
+    console.log(items.image);
 }
 
 // Create HTML list item from the given data item
@@ -52,7 +53,7 @@ function onButtonClick(event, items) {
             }
         }
     );
-    console.log(itemCollection);
+    //console.log(itemCollection);
 }
 
 // Event Listener
