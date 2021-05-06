@@ -34,27 +34,25 @@ In shopping mall websites, we have a function that sorts items by categories, su
 
 #### Home screen
 
-![Project Image](https://user-images.githubusercontent.com/81205807/117224257-72b1cd00-ae4a-11eb-96be-7b8aeae2874e.png)
+![Project Image](https://user-images.githubusercontent.com/81205807/117228542-384d2d80-ae54-11eb-8eb2-8b50739f4b53.png)
 
 #### Home Button
 
-![Home button](https://user-images.githubusercontent.com/81205807/117225467-56fbf600-ae4d-11eb-830f-67508499855e.png)
+![Home Button](https://user-images.githubusercontent.com/81205807/117228625-5dda3700-ae54-11eb-94f9-fc4cc99751ee.png)
 
 This button will bring you to Home Screen which shows all clothes in the content box.
 
 #### Navigation
 
-![Navigation](https://user-images.githubusercontent.com/81205807/117225605-aa6e4400-ae4d-11eb-8d43-c2485f59c1c5.png)
+![Menu bar](https://user-images.githubusercontent.com/81205807/117228707-86623100-ae54-11eb-8dd4-c7e000f1e357.png)
 
-This navigation has six categories, by type(shirts, pants, skirt) and by color(blue, yellow, pink). They will filter clothes accordingly.
+This navigation has six categories, by type(shirts, pants, skirt) and by color(blue, yellow, pink). They will filter clothes accordingly. For example, when you click BLUE button...
 
 ![Blue Button](https://user-images.githubusercontent.com/81205807/117228411-f2906500-ae53-11eb-9562-ae47de996276.png)
 
-For example, when you click BLUE button...
+...it will show you blue clothes
 
 ![Blue clothes](https://user-images.githubusercontent.com/81205807/117228307-beb53f80-ae53-11eb-8a03-75a5b581e1fe.png)
-
-...it will show you blue clothes
 
 ---
 
