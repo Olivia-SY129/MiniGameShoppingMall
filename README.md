@@ -46,7 +46,15 @@ This button will bring you to Home Screen which shows all clothes in the content
 
 ![Navigation](https://user-images.githubusercontent.com/81205807/117225605-aa6e4400-ae4d-11eb-8d43-c2485f59c1c5.png)
 
-This navigation has six categories, by type(shirts, pants, skirt) and by color(blue, yellow, pink)
+This navigation has six categories, by type(shirts, pants, skirt) and by color(blue, yellow, pink). They will filter clothes accordingly.
+
+![Blue Button](https://user-images.githubusercontent.com/81205807/117228228-9fb6ad80-ae53-11eb-8152-27f994635128.png)
+
+For example, when you click BLUE button...
+
+![Blue clothes](https://user-images.githubusercontent.com/81205807/117228307-beb53f80-ae53-11eb-8a03-75a5b581e1fe.png)
+
+...it will show you blue clothes
 
 ---
 
