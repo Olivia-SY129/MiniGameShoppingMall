@@ -2,7 +2,7 @@
 
 ![Project Image](https://user-images.githubusercontent.com/81205807/117224257-72b1cd00-ae4a-11eb-96be-7b8aeae2874e.png)
 
-> This is a mini game with simple functions with vanilla JavaScript
+> This is a mini game with simple functions using vanilla JavaScript
 
 ---
 
